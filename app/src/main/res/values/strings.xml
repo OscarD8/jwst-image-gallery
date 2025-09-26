@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JWSTImagePractice</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="text_cosmic_wreath">NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life</string>
+    <string name="credit_cosmic_wreath">Image credit: X-ray: NASA/CXC; Infrared: ESA/Webb, NASA and CSA, P. Zeilder, E.Sabbi, A. Nota, M. Zamani; Image Processing: NASA/CXC/SAO/L. Frattare and K. Arcand</string>
+    <string name="text_ngc2556">A close look at a local galaxy (NGC 2566)</string>
+    <string name="credit_ngc2556">Image credit: ESA/Webb, NASA and CSA, A. Leroy</string>
+    <string name="text_ic2163">Galaxies IC 2163 and NGC 2207 (MIRI Image)</string>
+    <string name="credit_ic2163">Image credit: NASA, ESA, CSA, STScI</string>
+    <string name="text_sombrero">Sombrero Galaxy (Hubble and Webb Image)</string>
+    <string name="credit_sombrero">Image credit: NASA, ESA, CSA, STScI, Hubble Heritage Project (STScI, AURA)</string>
+    <string name="text_lensed_quasar">Gravitationally lensed quasar - like jewels on a ring</string>
+    <string name="credit_lensed_quasar">Image credit:  ESA/Webb, NASA and CSA, A. Nierenberg</string>
+</resources>
